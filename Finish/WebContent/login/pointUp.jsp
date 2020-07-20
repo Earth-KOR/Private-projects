@@ -34,7 +34,7 @@ int Point = memberdao.priceCheck(id);
 			<label>회원 Point :</label>
 			<input type="text" name="ids" value=<%=Point%> disabled="disabled"><br><br>
 			<label>충전금액 :</label>
-			<input type="text" name="asd" placeholder="충전금액을 입력해 주세요" required="required" >
+			<input type="text" name="asd" placeholder="충전금액을 입력해 주세요!" required="required" >
 			<br><br>
 		</fieldset>
 		<br>
