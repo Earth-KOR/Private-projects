@@ -9,7 +9,7 @@ String id = request.getParameter("id");
 MemberDAO mdao = new MemberDAO();
 
 int check = mdao.idCheck(id);
- System.out.println(check);
+
 if(check==1){
 	out.println("이미 사용중인 아이디 입니다");
 	
