@@ -37,7 +37,7 @@ response.sendRedirect("content.jsp?num="+num);
 }else{
 %>
 <script type="text/javascript">
-alert("로그인이필요합니다"); 
+alert("로그인이 필요합니다 !"); 
 location.href="../login/login.jsp"; 
 </script>
 <%
