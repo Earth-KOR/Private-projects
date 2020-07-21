@@ -3,7 +3,7 @@
     pageEncoding="UTF-8"%>
     
  <!--
- 
+ 부산 아이티윌 교육센터
  개인 실습용 프로젝트 (학습용) 
  이름 : 이상권
  사진 출처 : https://www.doosanbears.com/
