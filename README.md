@@ -31,7 +31,8 @@
   <br>
 * FrameWork
   * Jquery
-  
+
+<br>  
 ## Database
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95739084-39a2e700-0cc5-11eb-9577-6fb907f23a17.png" width="600px"> </p>
@@ -139,7 +140,7 @@
 
 <br>
 
-* **갤러리를 게시 할 때, 대분류를 미리 설정하여 특정 대분류에 따라서 뜨는 이미지를 다르게 구현함 ** <br><br>
+* **갤러리를 게시 할 때, 대분류를 미리 설정하여 특정 대분류에 따라서 뜨는 이미지를 다르게 구현함** <br><br>
 * **이미지를 클릭 할 때, 이미지 업로드 시 작성했던 정보들이 나타나게 구현함.** <br><br>
 * **이미지를 클릭 할 때, 이미지 삭제 기능을 구현함.**
 
@@ -169,17 +170,17 @@
 
 <br><br><br><br>
 
-<p align="center">< 온라인 쇼핑몰 ></p>
+<p align="center">< 온라인 쇼핑몰 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839694-459eaf80-0d7e-11eb-8326-988ba17e988f.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 구매 리스트 ></p>
+<p align="center">< 구매 리스트 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839696-459eaf80-0d7e-11eb-8f97-cd4ac35da626.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 구매 후 재고 ></p>
+<p align="center">< 구매 후 재고 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839691-446d8280-0d7e-11eb-8fa5-afd12caf5dfc.png" width="600px"> </p>
 
 <br>
@@ -192,12 +193,12 @@
 
 <br><br><br><br>
 
-<p align="center">< 재고관리 프로그램 ></p>
+<p align="center">< 재고관리 프로그램 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840259-e55c3d80-0d7e-11eb-84b4-8d16bbd17e8f.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 변경된 재고 ></p>
+<p align="center">< 변경된 재고 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840263-e5f4d400-0d7e-11eb-9359-d8e0f8c903be.png" width="600px"> </p>
 
 <br><br>
@@ -213,22 +214,22 @@
 
 <br><br><br><br>
 
-<p align="center">< 게시판 메인화면 ></p>
+<p align="center">< 게시판 메인화면 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840539-39672200-0d7f-11eb-9878-9005f41941c3.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 게시판 - 글 쓰기 ></p>
+<p align="center">< 게시판 - 글 쓰기 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840542-39672200-0d7f-11eb-9550-1510307067a0.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 게시판 - 글 작성 완료 ></p>
+<p align="center">< 게시판 - 글 작성 완료 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840537-38ce8b80-0d7f-11eb-9a56-070e2e29e626.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 게시판 - 글 삭제 완료 ></p>
+<p align="center">< 게시판 - 글 삭제 완료 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840533-379d5e80-0d7f-11eb-9ae9-215e63a0b240.png" width="600px"> </p>
 
 ### 자료실
@@ -240,11 +241,11 @@
 
 <br><br><br><br>
 
-<p align="center">< 자료실 메인화면 ></p>
+<p align="center">< 자료실 메인화면 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95841216-0f622f80-0d80-11eb-9389-902e6769193f.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 자료실 다운로드 기능 ></p>
+<p align="center">< 자료실 다운로드 기능 ></p> <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95841224-10935c80-0d80-11eb-8bd1-f5a7d86fa508.png" width="600px"> </p>
 
