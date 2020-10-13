@@ -9,7 +9,7 @@
 * **웹 페이지 제작 시 기본적인 기능들을 구현** <br><br>
 * **재고관리 프로그램 (재고변경, 가격변경) 제작** <br><br>
 * **포인트 충전, 구매, 구매리스트 관리 등 부가기능 제작** 
-
+<br>
 ## 개발환경
 
 * 개발도구
@@ -60,12 +60,11 @@
 * **Jquery의 AutoComplete 기능을 이용하여 검색 시 `자동완성` 기능을 추가함.**
 
 <br><br><br>
-<p align="center">< 검색 시 ></p><br>
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829099-c5be1880-0d70-11eb-965c-dbf7a1c6709b.png" width="600px"> </p>
-<br>
-<p align="center">< 검색 완료 시 ></p>
+<p align="center">< 로그인 화면 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829101-c6ef4580-0d70-11eb-9620-d04400366c7f.png"> </p>
 <br><br>
+<p align="center">< 로그인 성공시 ></p><br>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829099-c5be1880-0d70-11eb-965c-dbf7a1c6709b.png" width="600px"> </p>
 
 <hr><br>
 
