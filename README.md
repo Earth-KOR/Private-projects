@@ -5,6 +5,7 @@
 <br><br><br>
 <hr>
 <br><br>
+
 ## 프로젝트 설명
 
 * **웹 페이지 제작 시 기본적인 기능들을 구현** <br><br>
@@ -94,17 +95,17 @@
 
 <br><br>
 
-<p align="center">< History ></p>
+<p align="center">< 회원가입 기본 창 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95830804-32d2ad80-0d73-11eb-931a-dbcaddb1f398.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< History ></p>
+<p align="center">< 다음 주소 API ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95830802-323a1700-0d73-11eb-9a83-1b9251cec4fc.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< History ></p>
+<p align="center">< Ajax 작동 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95830795-3108ea00-0d73-11eb-8361-ce33d879e950.png" width="600px"> </p>
 <br><br>
 
@@ -120,10 +121,12 @@
 
 <br><br><br><br>
 
+<p align="center">< 게시판 댓글 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95837932-24d55a80-0d7c-11eb-81c2-f58227636d21.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 자료실 댓글 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95837926-23a42d80-0d7c-11eb-8a31-c93a40d709d7.png" width="600px"> </p>
 
 <br>
@@ -142,14 +145,17 @@
 
 <br><br><br><br>
 
+<p align="center">< 갤러리 메인화면 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95838273-8ac1e200-0d7c-11eb-85b7-e03bd3a3d179.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 이미지 등록 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95838266-88f81e80-0d7c-11eb-8f74-99ad1f837ed7.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 이미지 상세정보 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95838270-8a294b80-0d7c-11eb-853e-6359227407d6.png" width="600px"> </p>
 
 <br><br>
@@ -158,21 +164,22 @@
 
 <br>
 
-* **** <br><br>
 * **회원이 가진 포인트를 이용하여 원하는 상품을 구매 할 수 있도록 구현함.** <br><br>
-* **구매한 물품은 마이페이지에 최신순으로 정렬하여 리스트로 나타나도록 구현함.**
+* **구매한 물품은 구매 리스트에 최신순으로 정렬하여 리스트로 나타나도록 구현함.**
 
 <br><br><br><br>
 
-
+<p align="center">< 온라인 쇼핑몰 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839694-459eaf80-0d7e-11eb-8326-988ba17e988f.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 구매 리스트 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839696-459eaf80-0d7e-11eb-8f97-cd4ac35da626.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 구매 후 재고 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95839691-446d8280-0d7e-11eb-8fa5-afd12caf5dfc.png" width="600px"> </p>
 
 <br>
@@ -184,9 +191,15 @@
 * **Admin으로 접속하면 쇼핑몰 물픔의 재고의 수량과 가격을 변경 할 수 있도록 구현함.** <br><br>
 
 <br><br><br><br>
+
+<p align="center">< 재고관리 프로그램 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840259-e55c3d80-0d7e-11eb-84b4-8d16bbd17e8f.png" width="600px"> </p>
+
 <br><br>
+
+<p align="center">< 변경된 재고 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840263-e5f4d400-0d7e-11eb-9359-d8e0f8c903be.png" width="600px"> </p>
+
 <br><br>
 
 
@@ -200,19 +213,23 @@
 
 <br><br><br><br>
 
+<p align="center">< 게시판 메인화면 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840539-39672200-0d7f-11eb-9878-9005f41941c3.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 게시판 - 글 쓰기 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840542-39672200-0d7f-11eb-9550-1510307067a0.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840533-379d5e80-0d7f-11eb-9ae9-215e63a0b240.png" width="600px"> </p>
+<p align="center">< 게시판 - 글 작성 완료 ></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840537-38ce8b80-0d7f-11eb-9a56-070e2e29e626.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840537-38ce8b80-0d7f-11eb-9a56-070e2e29e626.png" width="600px"> </p>
+<p align="center">< 게시판 - 글 삭제 완료 ></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840533-379d5e80-0d7f-11eb-9ae9-215e63a0b240.png" width="600px"> </p>
 
 ### 자료실
 
@@ -223,9 +240,11 @@
 
 <br><br><br><br>
 
+<p align="center">< 자료실 메인화면 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95841216-0f622f80-0d80-11eb-9389-902e6769193f.png" width="600px"> </p>
 
 <br><br>
 
+<p align="center">< 자료실 다운로드 기능 ></p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95841224-10935c80-0d80-11eb-8bd1-f5a7d86fa508.png" width="600px"> </p>
 
