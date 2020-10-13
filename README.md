@@ -1,7 +1,7 @@
 # Doosan Bears 커뮤니티 & 쇼핑몰 Site
 
 <br>
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95682260-4bca4a00-0c1f-11eb-800a-84f91a25a2f6.png" width="600px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829103-c787dc00-0d70-11eb-9dd9-cc9c21e7d3aa.png" width="600px"> </p>
 <br><br><br>
 
 ## 프로젝트 설명
@@ -9,11 +9,6 @@
 * **웹 페이지 제작 시 기본적인 기능들을 구현** <br><br>
 * **재고관리 프로그램 (재고변경, 가격변경) 제작** <br><br>
 * **포인트 충전, 구매, 구매리스트 관리 등 부가기능 제작** 
-
-<hr><br>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95682371-d448ea80-0c1f-11eb-9302-b83d753c297a.png" width="600px"> </p>
-<br><br><hr><br>
 
 ## 개발환경
 
@@ -66,10 +61,10 @@
 
 <br><br><br>
 <p align="center">< 검색 시 ></p><br>
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95734699-c72f0880-0cbe-11eb-9620-288b8ee81c3f.png" width="600px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829099-c5be1880-0d70-11eb-965c-dbf7a1c6709b.png" width="600px"> </p>
 <br>
 <p align="center">< 검색 완료 시 ></p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95734692-c4ccae80-0cbe-11eb-8866-29d24a3352ad.png" width="600px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95829101-c6ef4580-0d70-11eb-9620-d04400366c7f.png"> </p>
 <br><br>
 
 <hr><br>
