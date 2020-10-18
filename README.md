@@ -226,12 +226,12 @@
 
 <br><br>
 
-<p align="center">< 게시판 - 글 작성 완료 ></p> <br>
+<p align="center">< 게시판 - 글 작성 완료 ></p>     <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840537-38ce8b80-0d7f-11eb-9a56-070e2e29e626.png" width="600px"> </p>
 
 <br><br>
 
-<p align="center">< 게시판 - 글 삭제 완료 ></p> <br>
+<p align="center">< 게시판 - 글 삭제 완료 ></p>    <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95840533-379d5e80-0d7f-11eb-9ae9-215e63a0b240.png" width="600px"> </p>
 
 ### 자료실
