@@ -6,6 +6,16 @@
 <hr>
 <br><br>
 
+## 목차
+
+  1. [프로젝트 설명](#프로젝트-설명)
+  1. [개발환경](#개발환경)
+  1. [DATABASE](#DATABASE)
+  1. [기능구현](#기능구현)
+ 
+ 
+<br>
+
 ## 프로젝트 설명
 
 * **웹 페이지 제작 시 기본적인 기능들을 구현** <br><br>
@@ -15,26 +25,27 @@
 
 ## 개발환경
 
-* 개발도구
-  * Eclipse
-  * MySQL WorkBench
-  <br>
 * 언어
   * JAVA SE1.8 `JDK 8`
-  * JSP `model 1`
   * HTML5/CSS3
-  * JavaScript
+  * JavaScript `v1.0`
   <br>
-* 커뮤니티/서버(WAS)
-  * Github
+* 프레임 워크
+  * Jquery `v3.2.2`
+  <br>  
+* 서버(WAS)
   * Apache Tomcat `v8.0`
   <br>
-* FrameWork
-  * Jquery
+* 개발도구
+  * Eclipse-JEE-Mars-2
+  * MySQL WorkBench 
+  <br>
+* 커뮤니티
+  * Github
 
 <br>  
 
-## Database
+## DATABASE
 
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95851036-89ee6900-0d06-11eb-985e-ff5a68e64ffb.png" width="600px"></p>
