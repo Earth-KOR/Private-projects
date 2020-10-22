@@ -23,7 +23,7 @@ String id = (String)session.getAttribute("id");
 buyDAO count = new buyDAO () ;
 getDAO count2 = new getDAO () ;
 boolean check = count.count(name, get2);
-
+System.out.println(get2);
 
 if(check == true) {
 	
