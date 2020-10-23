@@ -49,7 +49,7 @@
 
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/62025746/95851036-89ee6900-0d06-11eb-985e-ff5a68e64ffb.png" width="600px"></p>
-<br><br>
+<br>   <br>
 
 
 ## 기능구현 
