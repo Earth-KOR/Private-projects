@@ -31,7 +31,7 @@
   * JavaScript `ES5'
   <br>
 * 프레임 워크
-  * Jquery `v3.2.2`
+  * Jquery `v3.2.2 `
   <br>  
 * 서버(WAS)
   * Apache Tomcat `v8.0`
